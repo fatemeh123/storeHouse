@@ -1,0 +1,16 @@
+coca  drink
+fanta  drink
+sprite  drink
+rani  drink
+milk  drink
+digestive  food
+noodle  food
+ketchup  food
+pringles  snack
+wafer  snack
+banana  fruit
+apple  fruit
+orange  fruit
+spray  cleaning
+soap  cleaning
+shampoo  cleaning
